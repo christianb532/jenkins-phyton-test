@@ -29,8 +29,7 @@ pipeline {
                 echo "Building virtualenv"
                 sh  ''' conda create --yes -n ${BUILD_TAG} python
                         source activate ${BUILD_TAG}
-                        sudo python -m pip install -r requirements/dev.txt
-						sudo python -m pip install numpy
+                        python -m pip install -r requirements/dev.txt
                     '''
             }
         }
