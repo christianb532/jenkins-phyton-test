@@ -192,12 +192,12 @@
       <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
         All GitHub
       </span>
-      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">?</span>
     </div>
 
     <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
       Jump to
-      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+      <span class="d-inline-block ml-1 v-align-middle">?</span>
     </div>
   </a>
 </li>
@@ -233,12 +233,12 @@
       <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
         All GitHub
       </span>
-      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">?</span>
     </div>
 
     <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
       Jump to
-      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+      <span class="d-inline-block ml-1 v-align-middle">?</span>
     </div>
   </a>
 </li>
@@ -265,12 +265,12 @@
       <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
         All GitHub
       </span>
-      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">?</span>
     </div>
 
     <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
       Jump to
-      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+      <span class="d-inline-block ml-1 v-align-middle">?</span>
     </div>
   </a>
 </li>
@@ -479,7 +479,7 @@
                   <div class="float-left col-6">
                       <button type="button" value=":palm_tree:" class="d-flex flex-items-baseline flex-items-stretch lh-condensed f6 btn-link link-gray no-underline js-predefined-user-status mb-1">
                         <div class="emoji-status-width mr-2 v-align-middle js-predefined-user-status-emoji">
-                          <g-emoji alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">🌴</g-emoji>
+                          <g-emoji alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">??</g-emoji>
                         </div>
                         <div class="d-flex flex-items-center no-underline js-predefined-user-status-message ws-normal text-left" style="border-left: 1px solid transparent">
                           On vacation
@@ -487,7 +487,7 @@
                       </button>
                       <button type="button" value=":face_with_thermometer:" class="d-flex flex-items-baseline flex-items-stretch lh-condensed f6 btn-link link-gray no-underline js-predefined-user-status mb-1">
                         <div class="emoji-status-width mr-2 v-align-middle js-predefined-user-status-emoji">
-                          <g-emoji alias="face_with_thermometer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f912.png">🤒</g-emoji>
+                          <g-emoji alias="face_with_thermometer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f912.png">??</g-emoji>
                         </div>
                         <div class="d-flex flex-items-center no-underline js-predefined-user-status-message ws-normal text-left" style="border-left: 1px solid transparent">
                           Out sick
@@ -497,7 +497,7 @@
                   <div class="float-left col-6">
                       <button type="button" value=":house:" class="d-flex flex-items-baseline flex-items-stretch lh-condensed f6 btn-link link-gray no-underline js-predefined-user-status mb-1">
                         <div class="emoji-status-width mr-2 v-align-middle js-predefined-user-status-emoji">
-                          <g-emoji alias="house" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e0.png">🏠</g-emoji>
+                          <g-emoji alias="house" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e0.png">??</g-emoji>
                         </div>
                         <div class="d-flex flex-items-center no-underline js-predefined-user-status-message ws-normal text-left" style="border-left: 1px solid transparent">
                           Working from home
@@ -505,7 +505,7 @@
                       </button>
                       <button type="button" value=":dart:" class="d-flex flex-items-baseline flex-items-stretch lh-condensed f6 btn-link link-gray no-underline js-predefined-user-status mb-1">
                         <div class="emoji-status-width mr-2 v-align-middle js-predefined-user-status-emoji">
-                          <g-emoji alias="dart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3af.png">🎯</g-emoji>
+                          <g-emoji alias="dart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3af.png">??</g-emoji>
                         </div>
                         <div class="d-flex flex-items-center no-underline js-predefined-user-status-message ws-normal text-left" style="border-left: 1px solid transparent">
                           Focusing
