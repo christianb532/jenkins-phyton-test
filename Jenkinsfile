@@ -1,3 +1,3 @@
-@Library('test-shared-library') _
+@Library('test-shared-library-python') _
 
 checkoutBuildTestDeploy()
