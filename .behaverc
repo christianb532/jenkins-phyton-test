@@ -23,7 +23,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>jenkins-python-test/.behaverc at master Â· mdyzma/jenkins-python-test</title>
+  <title>jenkins-python-test/.behaverc at master · mdyzma/jenkins-python-test</title>
     <meta name="description" content="Project to test python app CI/CD with Jenkins. Contribute to mdyzma/jenkins-python-test development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -148,13 +148,13 @@
           data-hotkey="s,/"
           name="q"
           value=""
-          placeholder="Search or jump toâ€¦"
-          data-unscoped-placeholder="Search or jump toâ€¦"
-          data-scoped-placeholder="Search or jump toâ€¦"
+          placeholder="Search or jump to…"
+          data-unscoped-placeholder="Search or jump to…"
+          data-scoped-placeholder="Search or jump to…"
           autocapitalize="off"
           aria-autocomplete="list"
           aria-controls="jump-to-results"
-          aria-label="Search or jump toâ€¦"
+          aria-label="Search or jump to…"
           data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=WHx4pb7DWLhSQI00eimpM4tCkTZYJNY4q5XnOtQ9dhCmsbUx702ficXkj62HrDL74GYCXgM0uB9lAexWc9Oszg=="
           spellcheck="false"
           autocomplete="off"
@@ -341,7 +341,7 @@
     <div class="Header-item position-relative d-none d-lg-flex">
       <details class="details-overlay details-reset">
   <summary class="Header-link"
-      aria-label="Create newâ€¦"
+      aria-label="Create new…"
       data-ga-click="Header, create new, icon:add">
     <svg class="octicon octicon-plus" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9H7v5H5V9H0V7h5V2h2v5h5v2z"/></svg> <span class="dropdown-caret"></span>
   </summary>
@@ -646,7 +646,7 @@
     <div class="width-full mx-auto shelf-content">
       <h2 class="shelf-title">Learn Git and GitHub without any code!</h2>
       <p class="shelf-lead">
-          Using the Hello World guide, youâ€™ll start a branch, write comments, and open a pull request.
+          Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
       </p>
       <a class="btn btn-primary shelf-cta" target="_blank" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;READ_GUIDE&quot;,&quot;repository_id&quot;:115463564,&quot;client_id&quot;:&quot;897649976.1571045214&quot;,&quot;originating_request_id&quot;:&quot;C429:47D1:8A1837:DA7D4E:5DA6EDE4&quot;,&quot;originating_url&quot;:&quot;https://github.com/mdyzma/jenkins-python-test/blob/master/.behaverc&quot;,&quot;referrer&quot;:&quot;https://github.com/mdyzma/jenkins-python-test&quot;,&quot;user_id&quot;:56541715}}" data-hydro-click-hmac="af22691555abd6a97bf4c1b572aee3c3b1e647a53bc2274680f8c466455d63ba" href="https://guides.github.com/activities/hello-world/">Read the guide</a>
     </div>
@@ -1127,7 +1127,7 @@
     <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
       <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
     </button>
-    You canâ€™t perform that action at this time.
+    You can’t perform that action at this time.
   </div>
 
 
