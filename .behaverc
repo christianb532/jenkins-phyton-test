@@ -1,9 +1,3 @@
-
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -1038,7 +1032,8 @@
 <table class="highlight tab-size js-file-line-container" data-tab-size="8">
       <tr>
         <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <td id="LC1" class="blob-code blob-code-inner js-file-line">[behave]</td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line">[behave]
+</td>
       </tr>
       <tr>
         <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
